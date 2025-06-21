@@ -10,7 +10,7 @@ A lightweight **React Native + kaspa-wasm** project that demonstrates a live blo
 - 🧑‍💻 Easily extendable for dashboards, token explorers, and visualizers
 
 ---
-
+Live Demo https://wasm.kaspaprice.site/ & Don't forget to check console
 ## 🚀 Quick Start
 
 ```bash
